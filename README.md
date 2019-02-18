@@ -67,7 +67,6 @@ int main()
 	}
 
 	//int n=sizeof(arr)/sizeof(arr[0]);
-
 	//part(arr,0,n);
 	//display(arr,n);
 
